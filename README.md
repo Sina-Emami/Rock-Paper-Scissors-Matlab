@@ -11,7 +11,7 @@ Go to the repository directory and type the RockPaperScissors in the command win
 
 Game has started, fight:
 </br>
-![start of the game](img/game_start.pngg) 
+![start of the game](img/game_start.png) 
 
 
 Both player and computer have chosen scissors:
