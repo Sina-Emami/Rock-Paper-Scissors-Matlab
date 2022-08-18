@@ -7,15 +7,20 @@ I have developed The rock paper scissors game with Matlab. You are playing with 
 ## Setup:
 Go to the repository directory and type the RockPaperScissors in the command window.
 
+<h3>Brief look at data</h3>
 
 Game has started, fight:
+</br>
 ![start of the game](img/game_start.pngg) 
 
 
 Both player and computer have chosen scissors:
+</br>
+
 ![Draw](img/draw.png) 
 
 
 Rock beats the scissors:
+</br>
 
 ![player_win](img/2-2.png) 
