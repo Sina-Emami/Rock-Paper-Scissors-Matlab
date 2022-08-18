@@ -1,30 +1,5 @@
 function varargout = RockPaperScissors(varargin)
-% RockPaperScissors MATLAB code for sinatest.fig
-%      RockPaperScissors, by itself, creates a new RockPaperScissors or raises the existing
-%      singleton*.
-%
-%      H = SINATEST returns the handle to a new RockPaperScissors or the handle to
-%      the existing singleton*.
-%
-%      RockPaperScissors('CALLBACK',hObject,eventData,handles,...) calls the local
-%      function named CALLBACK in SINATEST.M with the given input arguments.
-%
-%      RockPaperScissors('Property','Value',...) creates a new RockPaperScissors or raises the
-%      existing singleton*.  Starting from the left, property value pairs are
-%      applied to the GUI before RockPaperScissors_OpeningFcn gets called.  An
-%      unrecognized property name or invalid value makes property application
-%      stop.  All inputs are passed to sinatest_OpeningFcn via varargin.
-%
-%      *See GUI Options on GUIDE's Tools menu.  Choose "GUI allows only one
-%      instance to run (singleton)".
-%
-% See also: GUIDE, GUIDATA, GUIHANDLES
 
-% Edit the above text to modify the response to help sinatest
-
-% Last Modified by GUIDE v2.5 27-May-2021 20:12:00
-
-% Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
                    'gui_Singleton',  gui_Singleton, ...
